@@ -42,6 +42,8 @@ The following screenshot shows the query page on Machine:
 
 \bigskip\bigskip \adjustimage{width=\textwidth, center, caption={Query on Machine state Malfunction}, label={fig11}, nofloat=figure, vspace=\bigskipamount}{img/Malfunction.png}
 
+\bigskip\bigskip \adjustimage{width=\textwidth, center, caption={Graph visualisation of Machine state Malfunction}, label={fig11}, nofloat=figure, vspace=\bigskipamount}{img/malfunction_graph.png}
+
 \paragraph{} It could be noted, that due to the connected nature of a knowledge graph, a Malfunction also shows up when there is a query for Hazards. Since a Malfunction is also a Hazard.
 
 % \bigskip\bigskip\includegraphics[width=\textwidth]{img/Hazards.png}
@@ -109,7 +111,9 @@ Now that all the hazards of a laser are shown, it is required to mitigate the ri
     \item resultsIn - This relation gives the possible outcome of the hazard if it is not mitigated properly.
 \end{itemize}
 
-All the above data could help the engineer to quickly have a glance at the important data required for the risk assessment. Also if required the engineer can update the knowledge graph with new hazard data if needed, and this information could be re-used in future risk assessment. Hence, the model could retain the expert's knowledge in a structured manner. At least that part of the expert's knowledge which can be easily formalised. 
+\bigskip\bigskip \adjustimage{width=\textwidth, center, caption={Graph visualisation of NoiseHazards from Laser}, label={fig18}, nofloat=figure, vspace=\bigskipamount}{img/noise_hazards_graph.png}
+
+\paragraph{} All the above data could help the engineer to quickly have a glance at the important data required for the risk assessment. Also if required the engineer can update the knowledge graph with new hazard data if needed, and this information could be re-used in future risk assessment. Hence, the model could retain the expert's knowledge in a structured manner. At least that part of the expert's knowledge which can be easily formalised. 
 
 \section{Specific use case} \label{specific_use}
 In industrial risk assessment, Performance Level (PL) is an important concept particularly in the context of machinery safety. PL is used to determine the level of safety performance required of a safety-related control system or safety function, and is calculated based on the level of risk reduction required to ensure an acceptable level of safety. It is often calculated in 4 levels with level D being the being the highest level of safety performance. PL is typically used in the context of machinery safety and is based on the ISO 13849-1 standard, which provides guidelines for the design of safety-related control systems for machinery. % cite ISO 13849-1

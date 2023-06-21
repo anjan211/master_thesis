@@ -147,7 +147,9 @@
 \newcommand\birthday[1]{\def\@birthdate{#1}}
 \newcommand\placeofbirth[1]{\def\@birthplace{#1}}
 \newcommand\acknowledgments[1]{\def\@acknowledgments{#1}}
+\newcommand\declaration[1]{\def\@declaration{#1}}
 
+\def\@declaration{}
 \def\@acknowledgments{}
 \def\@isreport{}
 \def\@isdiploma{}
@@ -533,6 +535,9 @@
 	\fi
 	\pagenumbering{roman}
 	\setcounter{page}{1}
+        \minisec{Declaration}
+	\@declaration
+        \cleardoublestandardpage
 	\minisec{Abstract}
 	\@abstracten
 	\onehalfspacing
