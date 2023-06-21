@@ -1,0 +1,79 @@
+\chapter{Introduction} \label{introduction}
+
+\bigskip\bigskip 
+
+Industrial risk assessment is an essential process for ensuring the safety of workers and minimizing the potential for accidents in industrial settings. In recent years, the increasing need for industrial risk assessment has led to the development of various methods and tools to ensure safety in the workplace. With the increasing complexity of modern industrial systems, it has become more challenging to identify potential hazards and assess the associated risks accurately. One of the most promising techniques is the use of knowledge models. Knowledge modeling is a technique that can help experts and practitioners better understand the complex relationships between various factors that contribute to industrial risks. A knowledge model is a representation of the knowledge and expertise of domain experts in a particular field, captured in a structured format that can be easily accessed and utilized. In the context of industrial risk assessment, a knowledge model can help experts identify potential hazards, assess the associated risks, and design appropriate mitigation strategies. Also a knowledge model can bridge the gap between documented safety standards and an expert's interpretation of the standard in a risk assessment.
+
+\section{Motivation}\label{motivation}
+
+The Testing, Inspection and Certification (TIC) industry is a safety-critical sector where a minor failure could result in some serious damage. For this reason, industrial safety and security assessments are expected to deliver continuously-safe products. With the increasing complexity of modern-day products, more and more effort is required to ensure their safety. For example, to test a machinery, multiple standards need to be referred to test each component of the machine so that the overall product could be certified safe to use. 
+
+\paragraph{} The standards are generally large documents with a huge number of requirements that the product needs to fulfil. These standards describe generalized approaches to identify testing requirements, product requirements, recommendations, hazards and risks. Also some requirements are fuzzy and are difficult to perceive. Therefore, when applying such standards for risk assessments, a significant degree of interpretation might be necessary which usually comes from the knowledge and experience of the engineer responsible for the assessment. 
+
+\paragraph{} Now it becomes an expensive, time-consuming and risky activity to construct a safety checklist for assessment, due to the extensive manual work required. Furthermore, as products evolve, re-assessment and modification are necessary which again needs to repeat the whole risk-assessment procedure. Also with time, the experienced engineers are retiring along with their domain knowledge. This means the tacit knowledge of the domain expert is lost forever. Since knowledge is a valuable asset in every business, no organization can afford to lose it. Particularly, in the case of safety intensive TIC industry, the knowledge gathered over experience would directly impact the time consumed and risk assessed in the safety and security assessments.
+
+\section{Problem Statement and Challenges}\label{problem}
+Developing a knowledge model for industrial risk assessment is a complex task that poses several challenges. One of the primary challenges is the heterogeneity of the data used in safety standards. This heterogeneity makes it challenging to integrate data from various sources into a coherent knowledge model. Risk assessments involve multiple standards, each having different formats and structures to specify requirements, hazards, preventive measures, reference standards and other information. These information are not grouped separately but stays mixed as regular textual information. This can make the testing requirements fuzzy and often difficult to understand. Addressing this challenge can make industrial risk assessments faster and efficient.
+
+\paragraph{} Additionally, creating a knowledge model from a safety standard and expert's knowledge can be a complex and time-consuming process. There must be some level of automation in extracting relevant data from regular text. This data must also be formalised for the modeling software used. Performing these tasks manually is not the best solution especially for the enormous text corpus of the safety standards. Therefore, an automated or semi-automated approach must be looked into.
+
+\paragraph{} Another challenge in developing a knowledge model for industrial risk assessment is the need to balance comprehensiveness with usability. A comprehensive knowledge model that covers all possible risks and their associated mitigation strategies can be overwhelming for users and difficult to navigate. On the other hand, a model that is too simplistic may not capture all relevant factors and can lead to inaccurate risk assessments. Therefore, striking the right balance between comprehensiveness and usability is crucial to ensure that the knowledge model is effective in practice. This gives rise to another need to ensure that the knowledge model is adaptable and scalable to accommodate changes. As new standard is introduced, processes are modified, and new risks emerge, the knowledge model must be updated to reflect these changes accurately. 
+
+\paragraph{} Finally, ensuring that the knowledge model is accessible and understandable by human as well as it stays functional for future machine readable applications, is essential to its success. The model must be informative, easy to navigate, and provide actionable insights that can be used to make informed decisions. The effectiveness of the knowledge model depends on the quality and relevance of output it provides. Therefore, it must be validated to prove its relevance. 
+
+\section{Research Question} \label{rq}
+
+A number of research questions are formulated to aim at contributing to the motivation described in Section \ref{motivation} and \ref{problem}
+
+\rqformat{\textbf{RQ 1:} How can industrial safety and security assessments be made faster and efficient?}
+
+This is the central research question and broad in sense. RQ 1 would give rise to further specific research questions. 
+
+As discussed in Section \ref{motivation}, domain knowledge of human experts is important in interpretation of requirements from the standards, which in turn would facilitate risk assessments. Therefore, this knowledge from domain experts as well as knowledge from standards must be preserved for re-use. This brings the following question.
+
+\rqformat{\textbf{RQ 2:} How can knowledge from experts and standards be captured for re-use?}
+
+After capturing knowledge, it is to be applied in an industrial setup for compliance check. Now each component of the setup comes with their own set of information regarding performance level indicators which they need to fulfil. This information is provided by the manufacturer. For some component, this information does not come handy and there lies some difficulty in gathering or getting it. An unassigned safety parameter would leave an unmitigated risk on the component. This gives rise to the following question.
+
+\rqformat{\textbf{RQ 3:} How to deal with the missing information regarding the performance level indicators?}
+
+Now the knowledge gained from experts, safety standards and individual components needs to be modelled in a way for productive usage. The knowledge model thus created needs to be validated  to infer about its correctness. A procedure needs to be designed to analyse the different aspects of the knowledge model and how relevant is the model for industrial safety and security assessments. The following question is aimed at validation.
+
+\rqformat{\textbf{RQ 4:} How can the knowledge model be validated?}
+
+\section{Hypothesis} \label{hyp}
+
+As stated above, the main challenge lies in finding a methodology towards faster and efficient risk assessment. A proposed solution can be given as the central hypothesis of this paper.
+
+\rqformat{\textbf{Hypothesis 1.1:} Industrial safety and security assessments can be made faster and efficient by digitizing the knowledge from domain experts and safety standards and generate individual checklist for each assessment.}
+
+\rqformat{\textbf{Hypothesis 1.2:} Industrial safety and security assessments can be made faster and efficient by digitizing the knowledge by curating an information model from the engineering files (data sheet, CAD files, etc.) of each customer.}
+
+Now the question comes how to achieve the big solution. How can knowledge be digitized? There are a few knowledge modeling processes and techniques as surveyed in \cite{Yun2021}. Methods like Common Knowledge Acquisition and Documentation Structuring (CommonKADS) is a flexible approach to build knowledge base systems, but it has poor reusability. The two‐hemisphere model driven (2HMD) approach for knowledge representation is manageable, transparent, and easily modifiable, but lacks the support of appropriate development tools. A knowledge graph based on ontology is a popular form of representing knowledge with lot of tools to support development. The main advantage of using ontologies are interoperability and inference. Interoperability enhances reusability with the shared vocabulary and inferencing makes it able to infer new knowledge or facts out of the knowledge captured. For the use case of this work, the advantages of an ontology based approach seems more appropriate to use. This gives the second hypothesis.
+
+\rqformat{\textbf{Hypothesis 2:} Knowledge can be digitized by structuring it in a knowledge graph based on ontology.}
+
+As discussed for RQ 3, an unassigned safety integrity level would mean an unmitigated risk which is critical for functional safety. The hazard must be addressed. The required levels for safe operation can be queried from the knowledge graph manually or the data can be transmitted automatically from the semantic model to the risk assessment system. This gives two hypothesis as follows.
+
+\rqformat{\textbf{Hypothesis 3.1:} A missing performance level can be queried manually from the knowledge graph and the risk can be mitigated manually.}
+
+\rqformat{\textbf{Hypothesis 3.2:} A missing performance level can be communicated automatically from the knowledge graph to the machine and the risk can be mitigated automatically or can set an alert.}
+
+Finally for RQ 4, validation must focus on the conceptual and process model. It is an important goal to achieve because once the general model is validated, it can be considered suitable for practical use in the context of compliance. Therefore, to validate the knowledge model, the following hypothesis can be given. 
+
+\rqformat{\textbf{Hypothesis 4:} Knowledge model can be validated with a human expert from TÜV SÜD.}
+
+\section{Thesis outline} \label{outline}
+
+The thesis work is achieved following the guidelines presented in \cite{10.5555/2742708}. The structure of the thesis is as follows:
+\begin{itemize}
+	\item \textbf{Chapter 1 - Introduction}: Contains research motivation, problem statements and challenges, research questions and hypotheses.
+ 	\item \textbf{Chapter 2 - Background}: Discussion about industrial risk assessment and how it is performed currently, the drawbacks and how a knowledge model can make the process more efficient.
+  	\item \textbf{Chapter 3 - Related Work}: Literature review of works in similar domain.
+   	\item \textbf{Chapter 4 - Methodology}: Contains the proposed methodology of a systematic approach to develop the knowledge model in detail.
+	\item \textbf{Chapter 5 - Implementation}: Discussion about the implementation of the knowledge model in various use cases to compliment the current workflow of risk assessment.
+        \item \textbf{Chapter 6 - Validation}: A proposed validation strategy also involving an expert, to ensure the accuracy and reliability of the knowledge model.
+ 	\item \textbf{Chapter 7 - Future applications}: Contains ideas about future development of the knowledge model to enhance the process of risk assessment.
+  	\item \textbf{Chapter 8 - Challenges and limitations}: Discussion about the challenges faced while development and the limitations that can hinder the implementation of the knowledge model in risk assessments.
+        \item \textbf{Chapter 9 - Conclusion}: Finally concluding the thesis with research contributions and a brief summary of the overall work.
+ \end{itemize}

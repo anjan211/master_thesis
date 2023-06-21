@@ -1,0 +1,632 @@
+sentence
+Strategy for risk assessment and risk reduction
+"To implement risk assessment and risk reduction the designer shall take the following actions, in the order given (see Figure 1):"
+"determine the limits of the machinery, which include the intended use and any reasonably foreseeable misuse thereof;"
+identify the hazards and associated hazardous situations;
+estimate the risk for each identified hazard and hazardous situation;
+evaluate the risk and take decisions about the need for risk reduction;
+eliminate the hazard or reduce the risk associated with the hazard by means of protective measures. 
+"Actions a) to d) are related to risk assessment and e) to risk reduction.  Risk assessment is a series of logical steps to enable, in a systematic way, the analysis and evaluation of the risks associated with machinery. Risk assessment is followed, whenever necessary, by risk reduction. Iteration of this process can be necessary to eliminate hazards as far as practicable and to adequately reduce risks by the implementation of protective measures. It is assumed that, when present on machinery, a hazard will sooner or later lead to harm if no protective measure or measures have been implemented. Examples of hazards are given in Annex B.  Protective measures are the combination of the measures implemented by the designer and the user in accordance with Figure 2. Measures which can be incorporated at the design stage are preferable to those implemented by the user and usually prove more effective.  The objective to be met is the greatest practicable risk reduction, taking into account the four below factors. The strategy defined in this clause is represented by the flowchart in Figure 1. The process itself is iterative and several successive applications can be necessary to reduce the risk, making the best use of available technology. In carrying out this process, it is necessary to take into account these four factors, in the following order of preference: "
+"? the safety of the machine during all the phases of its life cycle;  ? the ability of the machine to perform its function;  ? the usability of the machine;  ? the manufacturing, operational and dismantling costs of the machine."
+"1 The ideal application of these principles requires knowledge of the use of the machine, the accident history and health records, available risk reduction techniques, and the legal framework in which the machine is to be used."
+2 A machine design which is acceptable at a particular time could be no longer justifiable when technological development allows the design of an equivalent machine with lower risk. 
+Figure 1 — Schematic representation of risk reduction process including iterative three-step method  Figure 2 — Risk reduction process from point of view of designer
+Risk assessment
+General 
+Risk assessment comprises (see Figure 1)  
+"? risk analysis, comprising"
+" determination of the limits of the machinery (see 5.3) ,"
+" hazard identification (5.4 and Annex B) , and"
+"risk estimation (see 5.5) , and"
+? risk evaluation (see 5.6) .
+"Risk analysis provides information required for the risk evaluation, which in turn allows judgments to be made about whether or not risk reduction is required.  These judgments shall be supported by a qualitative or, where appropriate, quantitative estimate of the risk associated with the hazards present on the machinery."
+"A quantitative approach can be appropriate when useful data is available. However, a quantitative approach is restricted by the useful data that are available and/or the limited resources of those conducting the risk assessment. Therefore, in many applications only qualitative risk estimation will be possible. "
+The risk assessment shall be documented according to Clause 7.
+Information for risk assessment 
+The information for risk assessment should include the following.
+ Related to machinery description:
+ user specifications;
+" anticipated machinery specifications, including"
+" a description of the various phases of the whole life cycle of the machinery,"
+" design drawings or other means of establishing the nature of the machinery, and"
+ required energy sources and how they are supplied;
+" documentation on previous designs of similar machinery, if relevant;"
+" information for use of the machinery, as available."
+" Related to regulations, standards and other applicable documents:"
+ applicable regulations;
+ relevant standards;
+ relevant technical specifications;
+ relevant safety data sheets.
+ Related to experience of use:
+" any accident, incident or malfunction history of the actual or similar machinery;"
+" the history of damage to health resulting, for example, from emissions (noise, vibration, dust, fumes, etc.) , chemicals used or materials processed by the machinery;"
+" the experience of users of similar machines and, whenever practicable, an exchange of information with the potential users."
+"An incident that has occurred and resulted in harm can be referred to as an “accident”, whereas an incident that has occurred and that did not result in harm can be referred to as a “near miss” or “dangerous occurrence”."
+ Relevant ergonomic principles. 
+"The information shall be updated as the design develops or when modifications to the machine are required.  Comparisons between similar hazardous situations associated with different types of machinery are often possible, provided that sufficient information about hazards and accident circumstances in those situations is available."
+"The absence of an accident history, a small number of accidents or low severity of accidents ought not to be taken as a presumption of a low risk. "
+"For quantitative analysis, data from databases, handbooks, laboratories or manufacturers' specifications may be used, provided that there is confidence in the suitability of the data. Uncertainty associated with these data shall be indicated in the documentation (see Clause 7) ."
+Determination of limits of machinery
+General 
+"Risk assessment begins with the determination of the limits of the machinery, taking into account all the phases of the machinery life. This means that the characteristics and performances of the machine or a series of machines in an integrated process, and the related people, environment and products, should be identified in terms of the limits of machinery as given in 5.3.2 to 5.3.5."
+Use limits 
+Use limits include the intended use and the reasonably foreseeable misuse. Aspects to be taken into account include the following:
+" the different machine operating modes and different intervention procedures for the users, including interventions required by malfunctions of the machine;"
+" the use of the machinery (for example, industrial, non-industrial and domestic)  by persons identified by sex, age, dominant hand usage, or limiting physical abilities (visual or hearing impairment, size, strength, etc.) ;"
+" the anticipated levels of training, experience or ability of users including"
+" operators,"
+" maintenance personnel or technicians,"
+" trainees and apprentices, and"
+ the general public;
+ exposure of other persons to the hazards associated with the machinery where it can be reasonably foreseen:
+" persons likely to have a good awareness of the specific hazards, such as operators of adjacent machinery;"
+" persons with little awareness of the specific hazards but likely to have a good awareness of site safety procedures, authorized routes, etc., such as administration staff;"
+" persons likely to have very little awareness of the machine hazards or the site safety procedures, such as visitors or members of the general public, including children. "
+"If specific information is not available in relation to b) , above, the manufacturer should take into account general information on the intended user population (for example, appropriate anthropometric data) ."
+Space limits 
+Aspects of space limits to be taken into account include
+" the range of movement,"
+" space requirements for persons interacting with the machine, such as during operation and maintenance,"
+" human interaction such as the operator–machine interface, and"
+ the machine–power supply interface.
+Time limits 
+Aspects of time limits to be taken into account include
+" the life limit of the machinery and/or of some of its components (tooling, parts that can wear, electromechanical components, etc.) , taking into account its intended use and reasonably foreseeable misuse, and"
+ recommended service intervals.
+Other limits 
+Examples of other limits include
+" properties of the material(s)  to be processed,"
+" housekeeping — the level of cleanliness required, and"
+" environmental — the recommended minimum and maximum temperatures, whether the machine can be operated indoors or outdoors, in dry or wet weather, in direct sunlight, tolerance to dust and wet, etc."
+Hazard identification 
+"After determination of the limits of the machinery, the essential step in any risk assessment of the machinery is the systematic identification of reasonably foreseeable hazards (permanent hazards and those which can appear unexpectedly) , hazardous situations and/or hazardous events during all phases of the machine life cycle, i.e.:"
+"? transport, assembly and installation;  ? commissioning;  ? use;  ? dismantling, disabling and scrapping. "
+"Only when hazards have been identified can steps be taken to eliminate them or to reduce risks. To accomplish this hazard identification, it is necessary to identify the operations to be performed by the machinery and the tasks to be performed by persons who interact with it, taking into account the different parts, mechanisms or functions of the machine, the materials to be processed, if any, and the environment in which the machine can be used.  The designer shall identify hazards taking into account the following."
+ Human interaction during the whole life cycle of the machine 
+"Task identification should consider all tasks associated with every phase of the machine life cycle as given above. Task identification should also take into account, but not be limited to, the following task categories: "
+? setting;  ? testing;  ? teaching/programming;  ? process/tool changeover;  ? start-up;  ? all modes of operation;  ? feeding the machine;  ? removal of product from machine;  ? stopping the machine;  ? stopping the machine in case of emergency;  ? recovery of operation from jam or blockage;  ? restart after unscheduled stop;  ? fault-finding/trouble-shooting (operator intervention) ;  ? cleaning and housekeeping;  ? preventive maintenance;  ? corrective maintenance. 
+"All reasonably foreseeable hazards, hazardous situations or hazardous events associated with the various tasks shall then be identified. Annex B gives examples of hazards, hazardous situations and hazardous events to assist in this process. Several methods are available for the systematic identification of hazards. See also ISO/TR 14121-2.  In addition, reasonably foreseeable hazards, hazardous situations or hazardous events not directly related to tasks shall be identified. "
+"Seismic events, lightning, excessive snow loads, noise, break-up of machinery, hydraulic hose burst."
+ Possible states of the machine 
+These are as follows:
+ the machine performs the intended function (the machine operates normally) ;
+" the machine does not perform the intended function (i.e. it malfunctions)  due to a variety of reasons, including "
+"? variation of a property or of a dimension of the processed material or of the workpiece,  ? failure of one or more of its component parts or services,  ? external disturbances (for example, shocks, vibration, electromagnetic interference) ,  ? design error or deficiency (for example, software errors) ,  ? disturbance of its power supply, and  ? surrounding conditions (for example, damaged floor surfaces) ."
+ Unintended behaviour of the operator or reasonably foreseeable misuse of the machine 
+Examples include 
+"? loss of control of the machine by the operator (especially for hand-held or mobile machines) ,  ? reflex behaviour of a person in case of malfunction, incident or failure during the use of the machine,  ? behaviour resulting from lack of concentration or carelessness,  ? behaviour resulting from taking the “line of least resistance” in carrying out a task,  ? behaviour resulting from pressures to keep the machine running in all circumstances, and  ? behaviour of certain persons (for example, children, disabled persons) ."
+"Examination of the available design documentation can be a useful means of identifying hazards related to the machinery, particularly those associated with moving elements such as motors or hydraulic cylinders."
+Risk estimation
+General  
+"After hazard identification, risk estimation shall be carried out for each hazardous situation by determining the elements of risk given in 5.5.2. When determining these elements, it is necessary to take into account the aspects given in 5.5.3.  If standardized (or other suitable)  measurement methods exist for an emission, they should be used, in conjunction with existing machinery or prototypes, to determine emission values and comparative emission data. This makes it possible for the designer to"
+"? estimate the risk associated with the emissions,  ? evaluate the effectiveness of the protective measures implemented at the design stage,  ? provide potential buyers with quantitative information on emissions in the technical documentation, and  ? provide users with quantitative information on emissions in the information for use. "
+Hazards other than emissions that are described by measurable parameters can be dealt with in a similar manner.
+Elements of risk
+General 
+The risk associated with a particular hazardous situation depends on the following elements:
+ the severity of harm;
+" the probability of occurrence of that harm, which is a function of"
+" the exposure of person(s)  to the hazard,"
+" the occurrence of a hazardous event, and"
+ the technical and human possibilities to avoid or limit the harm. 
+"The elements of risk are shown in Figure 3. Additional details are given in 5.5.2.2, 5.5.2.3 and 5.5.3.  Figure 3 — Elements of risk"
+Severity of harm 
+The severity can be estimated by taking into account the following:
+" the severity of injuries or damage to health, for example, "
+"? slight,  ? serious,  ? death."
+" the extent of harm, for example, to "
+"? one person,  ? several persons. "
+"When carrying out a risk assessment, the risk from the most likely severity of the harm that is likely to occur from each identified hazard shall be considered, but the highest foreseeable severity shall also be taken into account, even if the probability of such an occurrence is not high."
+Probability of occurrence of harm
+Exposure of persons to the hazard 
+"The exposure of a person to the hazard influences the probability of the occurrence of harm. Factors to be taken into account when estimating the exposure are, among others,"
+" the need for access to the hazard zone (for normal operation, correction of malfunction, maintenance or repair, etc.) ,"
+" the nature of access (for example, manual feeding of materials) ,"
+" the time spent in the hazard zone,"
+" the number of persons requiring access, and"
+ the frequency of access.
+Occurrence of a hazardous event 
+"The occurrence of a hazardous event influences the probability of occurrence of harm. Factors to be taken into account when estimating the occurrence of a hazardous event are, among others,"
+" reliability and other statistical data,"
+" accident history,"
+" history of damage to health, and"
+ comparison of risks (see 5.6.3) .
+The occurrence of a hazardous event can be of a technical or human origin.
+Possibility of avoiding or limiting harm 
+"The possibility of avoiding or limiting harm influences the probability of occurrence of harm. Factors to be taken into account when estimating the possibility of avoiding or limiting harm are, among others, the following:"
+" different persons who can be exposed to the hazard(s) , for example, "
+"? skilled,  ? unskilled;"
+" how quickly the hazardous situation could lead to harm, for example, "
+"? suddenly,  ? quickly,  ? slowly;"
+" any awareness of risk, for example, "
+"? by general information, in particular, information for use,  ? by direct observation,  ? through warning signs and indicating devices, in particular, on the machinery;"
+" the human ability to avoid or limit harm (for example, reflex, agility, possibility of escape) ;"
+" practical experience and knowledge, for example, ? of the machinery, ? of similar machinery, ? no experience."
+Aspects to be considered during risk estimation
+Persons exposed 
+Risk estimation shall take into account all persons (operators and others)  for whom exposure to the hazard is reasonably foreseeable.
+"Type, frequency and duration of exposure "
+"The estimation of the exposure to the hazard under consideration (including long-term damage to health)  requires analysis of, and shall account for, all modes of operation of the machinery and methods of working. In particular, the analysis shall account for the needs for access during loading/unloading, setting, teaching, process changeover or correction, cleaning, fault-finding and maintenance. The risk estimation shall also take into account tasks, for which it is necessary to suspend protective measures."
+Relationship between exposure and effects 
+"The relationship between an exposure to a hazard and its effects shall be taken into account for each hazardous situation considered. The effects of accumulated exposure and combinations of hazards shall also be considered. When considering these effects, risk estimation shall, as far as practicable, be based on appropriate recognized data."
+1 Accident data can assist in establishing the probability and severity of injury associated with the use of a particular type of machinery with a particular type of protective measure.
+"2 Zero accident data is, however, no guarantee of the low probability and severity of an injury."
+Human factors 
+"Human factors can affect risk and shall be taken into account in the risk estimation, including, for example,"
+" the interaction of person(s)  with the machinery, including correction of malfunction,"
+" interaction between persons,"
+" stress-related aspects,"
+" ergonomic aspects,"
+" the capacity of persons to be aware of risks in a given situation depending on their training, experience and ability,"
+" fatigue aspects, and"
+" aspects of limited abilities (due to disability, age, etc.) . "
+"Training, experience and ability can affect risk; nevertheless, none of these factors shall be used as a substitute for hazard elimination, risk reduction by inherently safe design measure or safeguarding, wherever these protective measures can be practicably implemented."
+Suitability of protective measures 
+Risk estimation shall take into account the suitability of protective measures and shall
+" identify the circumstances which can result in harm,"
+" whenever appropriate, be carried out using quantitative methods to compare alternative protective measures (see ISO/TR 14121-2) , and"
+ provide information that can assist with the selection of appropriate protective measures. 
+"When estimating risk, those components and systems identified as immediately increasing the risk in case of failure need special attention.  When protective measures include work organization, correct behaviour, attention, application of personal protective equipment (PPE) , skill or training, the relatively low reliability of such measures compared with proven technical protective measures shall be taken into account in the risk estimation."
+Possibility of defeating or circumventing protective measures 
+"For the continued safe operation of a machine, it is important that the protective measures allow its easy use and do not hinder its intended use. Otherwise, there is a possibility that protective measures might be bypassed in order for maximum utility of the machine to be achieved.  Risk estimation shall take account of the possibility of defeating or circumventing protective measures. It shall also take account of the incentive to defeat or circumvent protective measures when, for example,"
+" the protective measure slows down production or interferes with another activity or preference of the user,"
+" the protective measure is difficult to use,"
+" persons other than the operator are involved, or"
+ the protective measure is not recognized by the user or not accepted as being suitable for its function. 
+"Whether or not a protective measure can be defeated depends on both the type of protective measure, such as an adjustable guard or programmable trip device, and its design details.  Protective measures that use programmable electronic systems introduce additional possibilities of defeat or circumvention if access to safety-related software is not appropriately restricted by design and monitoring methods. Risk estimation shall identify where safety-related functions are not separated from other machine functions and shall determine the extent to which access is possible. This is particularly important when remote access for diagnostic or process correction purposes is required."
+Ability to maintain protective measures 
+Risk estimation shall consider whether the protective measures can be maintained in the condition necessary to provide the required level of protection.
+"If the protective measure cannot easily be maintained in correct working order, this can encourage the defeat or circumvention of the protective measure in order to allow continued use of the machinery."
+Information for use 
+"Risk estimation shall take into account the information for use, as available. See also 6.4."
+Risk evaluation
+General 
+"After risk estimation has been completed, risk evaluation shall be carried out to determine if risk reduction is required. If risk reduction is required, then appropriate protective measures shall be selected and applied (see Clause 6) . As shown in Figure 1, the adequacy of the risk reduction shall be determined after applying each of the three steps of risk reduction described in Clause 6. As part of this iterative process, the designer shall also check whether additional hazards are introduced or other risks increased when new protective measures are applied. If additional hazards do occur, they shall be added to the list of identified hazards and appropriate protective measures will be required to address them.  Achieving the objectives of risk reduction and a favourable outcome of risk comparison applied when practicable gives confidence that risk has been adequately reduced."
+Adequate risk reduction 
+"Application of the three-step method described in 6.1 is essential in achieving adequate risk reduction. Following the application of the three-step method, adequate risk reduction is achieved when"
+"? all operating conditions and all intervention procedures have been considered,  ? the hazards have been eliminated or risks reduced to the lowest practicable level,  ? any new hazards introduced by the protective measures have been properly addressed,  ? users are sufficiently informed and warned about the residual risks (see 6.1, step 3) ,  ? protective measures are compatible with one another,  ? sufficient consideration has been given to the consequences that can arise from the use in a nonprofessional/ non-industrial context of a machine designed for professional/industrial use, and  ? the protective measures do not adversely affect the operator's working conditions or the usability of the machine."
+Comparison of risks 
+"As part of the process of risk evaluation, the risks associated with the machinery or parts of machinery can be compared with those of similar machinery or parts of machinery, provided the following criteria apply:"
+"? the similar machinery is in accordance with the relevant type-C standard(s) ;  ? the intended use, reasonably foreseeable misuse and the way both machines are designed and constructed are comparable;  ? the hazards and the elements of risk are comparable;  ? the technical specifications are comparable;  ? the conditions for use are comparable. "
+"The use of this comparison method does not eliminate the need to follow the risk assessment process as described in this International Standard for the specific conditions of use. For example, when a band saw used for cutting meat is compared with a band saw used for cutting wood, the risks associated with the different material shall be assessed."
+Risk reduction
+General 
+"The objective of risk reduction can be achieved by the elimination of hazards, or by separately or simultaneously reducing each of the two elements that determine the associated risk: "
+? severity of harm from the hazard under consideration;  ? probability of occurrence of that harm.
+" All protective measures intended for reaching this objective shall be applied in the following sequence, referred to as the three-step method (see also Figures 1 and 2) . "
+Step 1: Inherently safe design measures  Inherently safe design measures eliminate hazards or reduce the associated risks by a suitable choice of design features of the machine itself and/or interaction between the exposed persons and the machine. See 6.2.
+"1 This stage is the only one at which hazards can be eliminated, thus avoiding the need for additional protective measures such as safeguarding or complementary protective measures. "
+"Step 2: Safeguarding and/or complementary protective measures  Taking into account the intended use and the reasonably foreseeable misuse, appropriately selected safeguarding and complementary protective measures can be used to reduce risk when it is not practicable to eliminate a hazard, or reduce its associated risk sufficiently, using inherently safe design measures. See 6.3. "
+"Step 3: Information for use  Where risks remain despite inherently safe design measures, safeguarding and the adoption of complementary protective measures, the residual risks shall be identified in the information for use. The information for use shall include, but not be limited to, the following: "
+"? operating procedures for the use of the machinery consistent with the expected ability of personnel who use the machinery or other persons who can be exposed to the hazards associated with the machinery;  ? the recommended safe working practices for the use of the machinery and the related training requirements adequately described;  ? sufficient information, including warning of residual risks for the different phases of the life of the machinery;  ? the description of any recommended personal protective equipment, including detail as to its need as well as to training needed for its use. "
+"Information for use shall not be a substitute for the correct application of inherently safe design measures, safeguarding or complementary protective measures."
+2 Adequate protective measures associated with each of the operating modes and intervention procedures reduce the possibility of operators being induced to use hazardous intervention techniques in case of technical difficulties.
+Inherently safe design measures
+General 
+"Inherently safe design measures are the first and most important step in the risk reduction process. This is because protective measures inherent to the characteristics of the machine are likely to remain effective, whereas experience has shown that even well-designed safeguarding can fail or be violated and information for use may not be followed.  Inherently safe design measures are achieved by avoiding hazards or reducing risks by a suitable choice of design features for the machine itself and/or interaction between the exposed persons and the machine."
+See 6.3 for safeguarding and complementary measures that can be used to achieve the risk reduction objectives in the case where inherently safe design measures are not sufficient (see 6.1 for the three-step method) .
+Consideration of geometrical factors and physical aspects
+Geometrical factors 
+Such factors include the following.
+" The form of machinery is designed to maximize direct visibility of the working areas and hazard zones from the control position — reducing blind spots, for example — and choosing and locating means of indirect vision where necessary (mirrors, etc.)  so as to take into account the characteristics of human vision, particularly when safe operation requires permanent direct control by the operator, for example: "
+? the travelling and working area of mobile machines;  ? the zone of movement of lifted loads or of the carrier of machinery for lifting persons;  ? the area of contact of the tool of a hand-held or hand-guided machine with the material being worked. 
+"The design of the machine shall be such that, from the main control position, the operator is able to ensure that there are no exposed persons in the danger zones."
+" The form and the relative location of the mechanical components parts: for instance, crushing and shearing hazards are avoided by increasing the minimum gap between the moving parts, such that the part of the body under consideration can enter the gap safely, or by reducing the gap so that no part of the body can enter it (see ISO 13854 and ISO 13857) ."
+" Avoiding sharp edges and corners, protruding parts: in so far as their purpose allows, accessible parts of the machinery shall have no sharp edges, no sharp angles, no rough surfaces, no protruding parts likely to cause injury, and no openings which can “trap” parts of the body or clothing. In particular, sheet metal edges shall be deburred, flanged or trimmed, and open ends of tubes which can cause a “trap” shall be capped."
+ The form of the machine is designed so as to achieve a suitable working position and provide accessible manual controls (actuators) .
+Physical aspects 
+Such aspects include the following:
+ limiting the actuating force to a sufficiently low value so that the actuated part does not generate a mechanical hazard;
+" limiting the mass and/or velocity of the movable elements, and hence their kinetic energy;"
+ limiting the emissions by acting on the characteristics of the source using measures for reducing
+" noise emission at source (see ISO/TR 11688-1) ,"
+" the emission of vibration at source, such as redistribution or addition of mass and changes of process parameters [for example, frequency and/or amplitude of movements (for hand-held and hand-guided machinery, see CR 1030-1) ],"
+" the emission of hazardous substances, including the use of less hazardous substances or dust-reducing processes (granules instead of powders, milling instead of grinding) , and"
+" radiation emissions, including, for example, avoiding the use of hazardous radiation sources, limiting the power of radiation to the lowest level sufficient for the proper functioning of the machine, designing the source so that the beam is concentrated on the target, increasing the distance between the source and the operator or providing for remote operation of the machinery [measures for reducing emission of non-ionizing radiation are given in 6.3.4.5 (see also EN 12198-1 and EN 12198-3) ]."
+Taking into account general technical knowledge of machine design 
+"This general technical knowledge can be derived from technical specifications for design (standards, design codes, calculation rules, etc.) , which should be used to cover"
+ mechanical stresses such as 
+"? stress limitation by implementation of correct calculation, construction and fastening methods as regards, for example, bolted assemblies and welded assemblies,  ? stress limitation by overload prevention (bursting disk, pressure-limiting valves, breakage points, torque-limiting devices, etc.) ,  ? avoiding fatigue in elements under variable stresses (notably cyclic stresses) , and  ? static and dynamic balancing of rotating elements,"
+ materials and their properties such as 
+"? resistance to corrosion, ageing, abrasion and wear,  ? hardness, ductility, brittleness,  ? homogeneity,  ? toxicity, and  ? flammability, and"
+ emission values for 
+"? noise,  ? vibration,  ? hazardous substances, and  ? radiation. "
+"When the reliability of particular components or assemblies is critical for safety (for example, ropes, chains, lifting accessories for lifting loads or persons) , stress limits shall be multiplied by appropriate working coefficients."
+Choice of appropriate technology 
+One or more hazards can be eliminated or risks reduced by the choice of the technology to be used in certain applications such as the following:
+" on machines intended for use in explosive atmospheres, using "
+"? appropriately selected pneumatic or hydraulic control system and machine actuators,  ? intrinsically safe electrical equipment (see IEC 60079-11) ;"
+" for particular products to be processed (for example, by a solvent) , by using equipment that ensures the temperature will remain far below the flash point;"
+" the use of alternative equipment to avoid high noise levels, such as "
+"? electrical instead of pneumatic equipment,  ? in certain conditions, water-cutting instead of mechanical equipment."
+Applying principle of positive mechanical action 
+"Positive mechanical action is achieved when a moving mechanical component inevitably moves another component along with it, either by direct contact or via rigid elements. An example of this is positive opening operation of switching devices in an electrical circuit (see IEC 60947-5-1 and ISO 14119) ."
+"Where a mechanical component moves and thus allows a second component to move freely (for example, by gravity or spring force) , there is no positive mechanical action of the first component on the second."
+Provisions for stability 
+Machines shall be designed so that they have sufficient stability to allow them to be used safely in their specified conditions of use. Factors to be taken into account include
+"? the geometry of the base,  ? the weight distribution, including loading,  ? the dynamic forces due to movements of parts of the machine, of the machine itself or of elements held by the machine which can result in an overturning moment,  ? vibration,  ? oscillations of the centre of gravity, ? characteristics of the supporting surface in case of travelling or installation on different sites (ground conditions, slope, etc.) , and  ? external forces, such as wind pressure and manual forces. "
+"Stability shall be considered in all phases of the life cycle of the machine, including handling, travelling, installation, use, dismantling, disabling and scrapping.  Other protective measures for stability relevant to safeguarding are given in 6.3.2.6."
+Provisions for maintainability 
+"When designing a machine, the following maintainability factors shall be taken into account to enable maintenance of the machine:"
+"? accessibility, taking into account the environment and the human body measurements, including the dimensions of the working clothes and tools used;  ? ease of handling, taking into account human capabilities;  ? limitation of the number of special tools and equipment."
+Observing ergonomic principles 
+"Ergonomic principles shall be taken into account in designing machinery so as to reduce the mental or physical stress of, and strain on, the operator. These principles shall be considered when allocating functions to operator and machine (degree of automation)  in the basic design."
+Also improved are the performance and reliability of operation and hence the reduction in the probability of errors at all stages of machine use. 
+"Account shall be taken of body sizes likely to be found in the intended user population, strengths and postures, movement amplitudes, frequency of cyclic actions (see ISO 10075 and ISO 10075-2) .  All elements of the operator–machine interface, such as controls, signalling or data display elements, shall be designed to be easily understood so that clear and unambiguous interaction between the operator and the machine is possible. See EN 614-1, EN 13861 and IEC 61310-1.  The designer's attention is particularly drawn to following ergonomic aspects of machine design."
+" Avoid the necessity for stressful postures and movements during the use of the machine (for example, providing facilities to adjust the machine to suit the various operators) ."
+" Design machines, especially hand-held and mobile machines, so as to enable them to be operated easily, taking into account human effort, actuation of controls and hand, arm and leg anatomy."
+" Limit as far as possible noise, vibration and thermal effects such as extreme temperatures."
+ Avoid linking the operator's working rhythm to an automatic succession of cycles.
+" Provide local lighting on or in the machine for the illumination of the working area and of adjusting, setting-up and frequent maintenance zones when the design features of the machine and/or its guards render the ambient lighting inadequate. Flicker, dazzling, shadows and stroboscopic effects shall be avoided if they can cause a risk. If the position or the lighting source has to be adjusted, its location shall be such that it does not cause any risk to persons making the adjustment."
+" Select, locate and identify manual controls (actuators)  so that "
+"? they are clearly visible and identifiable, and appropriately marked where necessary (see 6.4.4) ,  ? they can be safely operated without hesitation or loss of time and without ambiguity (for example, a standard layout of controls reduces the possibility of error when an operator changes from a machine to another one of similar type having the same pattern of operation) ,  ? their location (for push-buttons)  and their movement (for levers and hand wheels)  are consistent with their effect (see IEC 61310-3) , and  ? their operation cannot cause additional risk. "
+"See also ISO 9355-3. Where a control is designed and constructed to perform several different actions — namely, where there is no one-to-one correspondence (for example, keyboards)  — the action to be performed shall be clearly displayed and subject to confirmation where necessary.  Controls shall be so arranged that their layout, travel and resistance to operation are compatible with the action to be performed, taking account of ergonomic principles. Constraints due to the necessary or foreseeable use of personal protective equipment (such as footwear, gloves)  shall be taken into account."
+" Select, design and locate indicators, dials and visual display units so that "
+"? they fit within the parameters and characteristics of human perception,  ? information displayed can be detected, identified and interpreted conveniently, i.e. long-lasting, distinct, unambiguous and understandable with respect to the operator's requirements and the intended use, and  ? the operator is able to perceive them from the control position."
+Electrical hazards 
+"For the design of the electrical equipment of machines, IEC 60204-1 gives general provisions about disconnection and switching of electrical circuits and for protection against electric shock. For requirements related to specific machines, see corresponding IEC standards (for example, IEC 61029, IEC 60745 or IEC 60335) ."
+Pneumatic and hydraulic hazards 
+Pneumatic and hydraulic equipment of machinery shall be designed so that
+"? the maximum rated pressure cannot be exceeded in the circuits (using, for example, pressure-limiting devices) ,  ? no hazard results from pressure fluctuations or increases, or from loss of pressure or vacuum,  ? no hazardous fluid jet or sudden hazardous movement of the hose (whiplash)  results from leakage or component failures,  ? air receivers, air reservoirs or similar vessels (such as in gas-loaded accumulators)  comply with the applicable design standard codes or regulations for these elements,  ? all elements of the equipment, especially pipes and hoses, are protected against harmful external effects,  ? as far as possible, reservoirs and similar vessels (for example, gas-loaded accumulators)  are automatically depressurized when isolating the machine from its power supply (see 6.3.5.4)  and, if not possible, means are provided for their isolation, local depressurizing and pressure indication (see also ISO 14118:2000, Clause 5) , and  ? all elements which remain under pressure after isolation of the machine from its power supply are provided with clearly identified exhaust devices, and there is a warning label drawing attention to the necessity of depressurizing those elements before any setting or maintenance activity on the machine."
+See also ISO 4413 and ISO 4414.
+Applying inherently safe design measures to control systems
+General  
+The design measures of the control system shall be chosen so that their safety-related performance provides a sufficient amount of risk reduction (see ISO 13849-1 or IEC 62061) .  The correct design of machine control systems can avoid unforeseen and potentially hazardous machine behaviour.  Typical causes of hazardous machine behaviour are
+"? an unsuitable design or modification (accidental or deliberate)  of the control system logic,  ? a temporary or permanent defect or failure of one or several components of the control system,  ? a variation or a failure in the power supply of the control system, and  ? inappropriate selection, design and location of the control devices. "
+Typical examples of hazardous machine behaviour are
+"? unexpected start-up (see ISO 14118) ,  ? uncontrolled speed change,  ? failure to stop moving parts,  ? dropping or ejection of part of the machine or of a workpiece clamped by the machine, and  ? machine action resulting from inhibition (defeating or failure)  of protective devices. "
+"In order to prevent hazardous machine behaviour and to achieve safety functions, the design of control systems shall comply with the principles and methods presented in this subclause (6.2.11)  and in 6.2.12. These principles and methods shall be applied singly or in combination as appropriate to the circumstances (see ISO 13849-1, IEC 60204-1 and IEC 62061) .  Control systems shall be designed to enable the operator to interact with the machine safely and easily. This requires one or several of the following solutions:"
+"? systematic analysis of start and stop conditions;  ? provision for specific operating modes (for example, start-up after normal stop, restart after cycle interruption or after emergency stop, removal of the workpieces contained in the machine, operation of a part of the machine in case of a failure of a machine element) ;  ? clear display of the faults;  ? measures to prevent accidental generation of unexpected start commands (for example, shrouded start device)  likely to cause dangerous machine behaviour (see ISO 14118:2000, Figure 1) ;  ? maintained stop commands (for example, interlock)  to prevent restarting that could result in dangerous machine behaviour (see ISO 14118:2000, Figure 1) . "
+"An assembly of machines may be divided into several zones for emergency stopping, for stopping as a result of protective devices and/or for isolation and energy dissipation. The different zones shall be clearly defined and it shall be obvious which parts of the machine belong to which zone. Likewise, it shall be obvious which control devices (for example, emergency stop devices, supply disconnecting devices)  and/or protective devices belong to which zone. The interfaces between zones shall be designed such that no function in one zone creates hazards in another zone which has been stopped for an intervention.  Control systems shall be designed to limit the movements of parts of the machinery, the machine itself, or workpieces and/or loads held by the machinery, to the safe design parameters (for example, range, speed, acceleration, deceleration, load capacity) . Allowance shall be made for dynamic effects (swinging of loads, etc.) .  For example: "
+"? the travelling speed of mobile pedestrian controlled machinery other than remote-controlled shall be compatible with walking speed;  ? the range, speed, acceleration and deceleration of movements of the person-carrier and carrying vehicle for lifting persons shall be limited to non-hazardous values, taking into account the total reaction time of the operator and the machine;  ? the range of movements of parts of machinery for lifting loads shall be kept within specified limits. "
+"When the machinery contains various elements that can be operated independently, the control system shall be designed to prevent risks arising out of a lack of coordination (for example, collision prevention system) ."
+Starting of an internal power source/switching on an external power supply  
+The starting of an internal power source or switching-on of an external power supply shall not result in a hazardous situation.  For example:
+? starting the internal combustion engine shall not lead to movement of a mobile machine;  ? connection to mains electricity supply shall not result in the starting of working parts of a machine. 
+"See IEC 60204-1:2005, 7.5 (see also Annexes A and B) ."
+Starting/stopping of a mechanism 
+"The primary action for starting or accelerating the movement of a mechanism should be performed by the application or an increase of voltage or fluid pressure, or — if binary logic elements are considered — by passage from state 0 to state 1 (where state 1 represents the highest energy state) .  The primary action for stopping or slowing down should be performed by removal or reduction of voltage or fluid pressure, or — if binary logic elements are considered — by passage from state 1 to state 0 (where state 1 represents the highest energy state) .  In certain applications, such as high-voltage switchgear, this principle cannot be followed, in which case other measures should be applied to achieve the same level of confidence for the stopping or slowing down.  When, in order for the operator to maintain permanent control of deceleration, this principle is not observed (for example, a hydraulic braking device of a self-propelled mobile machine) , the machine shall be equipped with a means of slowing and stopping in case of failure of the main braking system."
+Restart after power interruption 
+"If a hazard could be generated, the spontaneous restart of a machine when it is re-energized after power interruption shall be prevented (for example, by use of a self-maintained relay, contactor or valve) ."
+Interruption of power supply 
+Machinery shall be designed to prevent hazardous situations resulting from interruption or excessive fluctuation of the power supply. At least the following requirements shall be met:
+"? the stopping function of the machinery shall remain;  ? all devices whose permanent operation is required for safety shall operate in an effective way to maintain safety (for example, locking, clamping devices, cooling or heating devices, power-assisted steering of self-propelled mobile machinery) ;  ? parts of machinery or workpieces and/or loads held by machinery which are liable to move as a result of potential energy shall be retained for the time necessary to allow them to be safely lowered."
+Use of automatic monitoring  
+"Automatic monitoring is intended to ensure that a safety function or functions implemented by a protective measure do not fail to be performed if the ability of a component or an element to perform its function is diminished, or if the process conditions are changed such that hazards are generated.  Automatic monitoring either detects a fault immediately or carries out periodic checks so that a fault is detected before the next demand upon the safety function. In either case, the protective measure can be initiated immediately or delayed until a specific event occurs (for example, the beginning of the machine cycle) .  The protective measure may be, for example,"
+"? the stopping of the hazardous process,  ? preventing the restart of this process after the first stop following the failure, or  ? the triggering of an alarm."
+Safety functions implemented by programmable electronic control systems
+General 
+"A control system that includes programmable electronic equipment (for example, programmable controllers)  can, where appropriate, be used to implement safety functions at machinery. Where a programmable electronic control system is used, it is necessary to consider its performance requirements in relation to the requirements for the safety functions. The design of the programmable electronic control system shall be such that the probability of random hardware failures and the likelihood of systematic failures that can adversely affect the performance of the safety-related control function(s)  is sufficiently low. Where a programmable electronic control system performs a monitoring function, the system behaviour on detection of a fault shall be considered (see also the IEC 61508 series for further guidance) ."
+"Both ISO 13849-1 and IEC 62061, specific to machinery safety, provide guidance applicable to programmable electronic control systems. "
+"The programmable electronic control system should be installed and validated to ensure that the specified performance [for example, safety integrity level (SIL)  in IEC 61508] for each safety function has been achieved. Validation comprises testing and analysis (for example, static, dynamic or failure analysis)  to show that all parts interact correctly to perform the safety function and that unintended functions do not occur."
+Hardware aspects 
+"The hardware (including, for example, sensors, actuators and logic solvers)  shall be selected, and/or designed and installed, to meet both the functional and performance requirements of the safety function(s)  to be performed, in particular, by means of"
+"? architectural constraints (the configuration of the system, its ability to tolerate faults, its behaviour on detection of a fault, etc.) ,  ? selection, and/or design, of equipment and devices with an appropriate probability of dangerous random hardware failure, and  ? the incorporation of measures and techniques within the hardware so as to avoid systematic failures and control systematic faults."
+Software aspects 
+"The software, including internal operating software (or system software)  and application software, shall be designed so as to satisfy the performance specification for the safety functions (see also IEC 61508-3) .  Application software should not be reprogrammable by the user. This may be achieved by use of embedded software in a non-reprogrammable memory [for example, micro-controller, application-specific integrated circuit (ASIC) ].  When the application requires reprogramming by the user, the access to the software dealing with safety functions should be restricted (for example, by locks or passwords for the authorized persons) ."
+Principles relating to manual control These are as follows.
+" Manual control devices shall be designed and located according to the relevant ergonomic principles given in 6.2.8, item f) ."
+" A stop control device shall be placed near each start control device. Where the start/stop function is performed by means of a hold-to-run control, a separate stop control device shall be provided when a risk can result from the hold-to-run control device failing to deliver a stop command when released."
+" Manual controls shall be located out of reach of the danger zones (see IEC 61310-3) , except for certain controls where, of necessity, they are located within a danger zone, such as emergency stop or teach pendant."
+" Whenever possible, control devices and control positions shall be located so that the operator is able to observe the working area or hazard zone."
+" The driver of a ride-on mobile machine shall be able to actuate all control devices required to operate the machine from the driving position, except for functions which can be controlled more safely from other positions."
+" On machinery intended for lifting persons, controls for lifting and lowering and, if appropriate, for moving the carrier shall generally be located in the carrier. If safe operation requires controls to be situated outside the carrier, the operator in the carrier shall be provided with the means of preventing hazardous movements."
+" If it is possible to start the same hazardous element by means of several controls, the control circuit shall be so arranged that only one control is effective at a given time. This applies especially to machines which can be manually controlled by means of, among others, a portable control unit (such as a teach pendant) , with which the operator can enter danger zones."
+" Control actuators shall be designed or guarded so that their effect, where a risk is involved, cannot occur without intentional operation (see ISO 9355-1, ISO 9355-3 and ISO 447) ."
+" For machine functions whose safe operation depends on permanent, direct control by the operator, measures shall be implemented to ensure the presence of the operator at the control position (for example, by the design and location of control devices) ."
+" For cableless control, an automatic stop shall be performed when correct control signals are not received, including loss of communication (see IEC 60204-1) ."
+"Control mode for setting, teaching, process changeover, fault-finding, cleaning or maintenance "
+"Where, for setting, teaching, process changeover, fault-finding, cleaning or maintenance of machinery, a guard has to be displaced or removed and/or a protective device has to be disabled, and where it is necessary for the purpose of these operations for the machinery or part of the machinery to be put into operation, the safety of the operator shall be achieved using a specific control mode which simultaneously"
+" disables all other control modes,"
+" permits operation of the hazardous elements only by continuous actuation of an enabling device, a two-hand control device or a hold-to-run control device,"
+" permits operation of the hazardous elements only in reduced risk conditions (for example, reduced speed, reduced power/force, step-by-step, for example, with a limited movement control device) , and"
+ prevents any operation of hazardous functions by voluntary or involuntary action on the machine's sensors.
+For some special machinery other protective measures can be appropriate. 
+This control mode shall be associated with one or more of the following measures:  ? restriction of access to the danger zone as far as possible;  ? emergency stop control within immediate reach of the operator;  ? portable control unit (teach pendant)  and/or local controls (allowing sight of the controlled elements) .  See IEC 60204-1.
+Selection of control and operating modes 
+"If machinery has been designed and built to allow for its use in several control or operating modes requiring different protective measures and/or work procedures (for example, to allow for adjustment, setting, maintenance, inspection) , it shall be fitted with a mode selector which can be locked in each position. Each position of the selector shall be clearly identifiable and shall exclusively allow one control or operating mode.  The selector may be replaced by another selection means which restricts the use of certain functions of the machinery to certain categories of operators (for example, access codes for certain numerically controlled functions) ."
+Applying measures to achieve electromagnetic compatibility (EMC)  
+"For guidance on electromagnetic compatibility, see IEC 60204-1 and IEC 61000-6."
+Provision of diagnostic systems to aid fault-finding 
+Diagnostic systems to aid fault-finding should be included in the control system so that there is no need to disable any protective measure.
+"Such systems not only improve availability and maintainability of machinery, they also reduce the exposure of maintenance staff to hazards."
+Minimizing probability of failure of safety functions
+General 
+Safety of machinery is not only dependent on the reliability of the control systems but also on the reliability of all parts of the machine.  The continued operation of the safety functions is essential for the safe use of the machine. This can be achieved by the measures given in 6.2.12.2 to 6.2.12.4.
+Use of reliable components 
+"“Reliable components” means components which are capable of withstanding all disturbances and stresses associated with the usage of the equipment in the conditions of intended use (including the environmental conditions) , for the period of time or the number of operations fixed for the use, with a low probability of failures generating a hazardous malfunctioning of the machine. Components shall be selected taking into account all factors mentioned above (see also 6.2.13) ."
+"1 “Reliable components” is not a synonym for “well-tried components” (see ISO 13849-1:2006, 6.2.4) ."
+"2 Environmental conditions for consideration include impact, vibration, cold, heat, moisture, dust, corrosive and/or abrasive substances, static electricity and magnetic and electric fields. Disturbances which can be generated by those conditions include insulation failures and temporary or permanent failures in the function of control system components."
+Use of “oriented failure mode” components 
+“Oriented failure mode” components or systems are those in which the predominant failure mode is known in advance and which can be used so that the effect of such a failure on the machine function can be predicted.
+"In some cases, it will be necessary to take additional measures to limit the negative effects of such a failure. The use of such components should always be considered, particularly in cases where redundancy (see 6.2.12.4)  is not employed."
+Duplication (or redundancy)  of components or subsystems 
+"In the design of safety-related parts of the machine, duplication (or redundancy)  of components may be used so that, if one component fails, another component or components continue to perform the respective function(s) , thereby ensuring that the safety function remains available.  In order to allow the proper action to be initiated, component failure shall be detected by automatic monitoring (see 6.2.11.6)  or in some circumstances by regular inspection, provided that the inspection interval is shorter than the expected lifetime of the components.  Diversity of design and/or technology can be used to avoid common cause failures (for example, from electromagnetic disturbance)  or common mode failures."
+Limiting exposure to hazards through reliability of equipment 
+"Increased reliability of all component parts of machinery reduces the frequency of incidents requiring intervention, thereby reducing exposure to hazards.  This applies to power systems (operative part, see Annex A)  as well as to control systems, and to safety functions as well as to other functions of machinery.  Safety-related components (for example, certain sensors)  of known reliability shall be used.  The elements of guards and of protective devices shall be especially reliable, as their failure can expose persons to hazards, and also because poor reliability would encourage attempts to defeat them."
+Limiting exposure to hazards through mechanization or automation of loading (feeding) / unloading (removal)  operations 
+"Mechanization and automation of machine loading/unloading operations and, more generally, of handling operations — of workpieces, materials or substances — limits the risk generated by these operations by reducing the exposure of persons to hazards at the operating points.  Automation can be achieved by, for example, robots, handling devices, transfer mechanisms and air-blast equipment. Mechanization can be achieved by, for example, feeding slides, push-rods and hand-operated indexing tables.  While automatic feeding and removal devices have much to offer in preventing accidents to machine operators, they can create danger when any faults are being corrected. Care shall be taken to ensure that the use of these devices does not introduce further hazards, such as trapping or crushing, between the devices and parts of the machine or workpieces/materials being processed. Suitable safeguards (see 6.3)  shall be provided if this cannot be ensured.  Automatic feeding and removal devices with their own control systems and the control system of the associated machine shall be interconnected after thorough study of how all safety functions are performed in all the control and operation modes of the entire equipment."
+Limiting exposure to hazards through location of setting and maintenance points outside danger zones 
+"The need for access to danger zones shall be minimized by locating maintenance, lubrication and setting points outside these zones."
+Safeguarding and complementary protective measures
+General 
+"Guards and protective devices shall be used to protect persons whenever an inherently safe design measure does not reasonably make it possible either to remove hazards or to sufficiently reduce risks. Complementary protective measures involving additional equipment (for example, emergency stop equipment)  may have to be implemented."
+The different kinds of guards and protective devices are defined in 3.27 and 3.28. 
+Certain safeguards may be used to avoid exposure to more than one hazard. 
+A fixed guard preventing access to a zone where a mechanical hazard is present used to reduce noise levels and collect toxic emissions.
+Selection and implementation of guards and protective devices
+General 
+"This subclause gives guidelines for the selection and the implementation of guards and protective devices the primary purpose of which is to protect persons against hazards generated by moving parts, according to the nature of those parts (see Figure 4)  and to the need for access to the danger zone(s) .  The exact choice of a safeguard for a particular machine shall be made on the basis of the risk assessment for that machine.  In selecting an appropriate safeguard for a particular type of machinery or hazard zone, it shall be borne in mind that a fixed guard is simple and shall be used where the access of an operator into a danger zone is not required during the normal operation (operation without malfunction)  of the machinery.  As the need for frequency of access increases, this inevitably leads to the fixed guard not being replaced. This requires the use of an alternative protective measure (movable interlocking guard, sensitive protective equipment) .  A combination of safeguards can sometimes be required. For example, where, in conjunction with a fixed guard, a mechanical loading (feeding)  device is used to feed a workpiece into a machine, thereby removing the need for access to the primary hazard zone, a trip device can be required to protect against the secondary drawing-in or shearing hazard between the mechanical loading (feeding)  device, when reachable, and the fixed guard.  Consideration shall be given to the enclosure of control positions or intervention zones to provide combined protection against several hazards including"
+" hazards from falling or ejected objects, using, for example, protection in the form of a falling object protection structure (FOPS) ,"
+" emission hazards (protection against noise, vibration, radiation, substances hazardous to health, etc.) ,"
+" hazards due to the environment (protection against heat, cold, foul weather, etc.) ,"
+" hazards due to tipping over or rolling over of machinery, using, for example, protection in the form of roll-over or tip-over protection structures (ROPS and TOPS) .  "
+"The design of enclosed work stations, such as cabs and cabins, shall take into account ergonomic principles concerning visibility, lighting, atmospheric conditions, access, posture.  Figure 4 — Guidelines for choosing safeguards against hazards generated by moving parts"
+Where access to the hazard zone is not required during normal operation 
+"Where access to the hazard zone is not required during normal operation of the machinery, safeguards should be selected from the following:"
+ fixed guards (see also ISO 14120) ;
+" interlocking guards with or without guard locking (see also 6.3.3.2.3, ISO 14119 and ISO 14120) ;"
+" self-closing guards (see ISO 14120:2002, 3.3.2) ;"
+" sensitive protective equipment, such as electrosensitive protective equipment (see IEC 61496)  or pressure-sensitive protective devices (see ISO 13856) ."
+Where access to the hazard zone is required during normal operation 
+"Where access to the hazard zone is required during normal operation of the machinery, safeguards should be selected from the following:"
+" interlocking guards with or without guard locking (see also ISO 14119, ISO 14120 and 6.3.3.2.3 of this document) ;"
+" sensitive protective equipment, such as electrosensitive protective equipment (see IEC 61496) ;"
+ adjustable guards;
+" self-closing guards (see ISO 14120:2002, 3.3.2) ;"
+ two-hand control devices (see ISO 13851) ;
+ interlocking guards with a start function (control guard)  (see 6.3.3.2.5) .
+"Where access to the hazard zone is required for machine setting, teaching, process changeover, fault-finding, cleaning or maintenance "
+"As far as possible, machines shall be designed so that the safeguards provided for the protection of the production operator also ensure the protection of personnel carrying out setting, teaching, process changeover, fault-finding, cleaning or maintenance, without hindering them in the performance of their task. Such tasks shall be identified and considered in the risk assessment as parts of the use of the machine (see 5.2) ."
+"Isolation and energy dissipation for machine shut-down (see 6.3.5.4, and also ISO 14118:2000, 4.1 and Clause 5)  ensure the highest level of safety when carrying out tasks (especially maintenance and repair tasks)  that do not require the machine to remain connected to its power supply."
+Selection and implementation of sensitive protective equipment
+Selection  
+"Due to the great diversity of the technologies on which their detection function is based, all types of sensitive protective equipment are far from being equally suitable for safety applications. The following provisions are intended to provide the designer with criteria for selecting, for each application, the most suitable device(s) .  Types of sensitive protective equipment include"
+"? light curtains,  ? scanning devices, for example, laser scanners,  ? pressure-sensitive mats, and  ? trip bars, trip wires.  Sensitive protective equipment can be used  ? for tripping purposes,  ? for presence sensing,  ? for both tripping and presence sensing, or  ? to re-initiate machine operation — a practice subject to stringent conditions."
+Some types of sensitive protective equipment can be unsuitable either for presence sensing or for tripping purposes. 
+"The following characteristics of the machinery, among others, can preclude the sole use of sensitive protective equipment: "
+"? tendency for the machinery to eject materials or component parts;  ? necessity to guard against emissions (noise, radiation, dust, etc.) ;  ? erratic or excessive machine stopping time;  ? inability of a machine to stop part-way through a cycle."
+Implementation 
+Consideration should be given to
+" the size, characteristics and positioning of the detection zone (see ISO 13855, which deals with the positioning of some types of sensitive protective equipment) ,"
+" the reaction of the device to fault conditions (see IEC 61496 for electrosensitive protective equipment) ,"
+" the possibility of circumvention, and"
+" detection capability and its variation over the course of time (as a result, for example, of its susceptibility to different environmental conditions such as the presence of reflecting surfaces, other artificial light sources and sunlight or impurities in the air) ."
+1 IEC 61496 defines the detection capability of electrosensitive protective equipment. 
+Sensitive protective equipment shall be integrated in the operative part and associated with the control system of the machine so that
+"? a command is given as soon as a person or part of a person is detected,  ? the withdrawal of the person or part of a person detected does not, by itself, restart the hazardous machine function(s) , and therefore the command given by the sensitive protective equipment is maintained by the control system until a new command is given,  ? restarting the hazardous machine function(s)  results from the voluntary actuation by the operator of a control device placed outside the hazard zone, where this zone can be observed by the operator,  ? the machine cannot operate during interruption of the detection function of the sensitive protective equipment, except during muting phases, and  ? the position and the shape of the detection field prevents, possibly together with fixed guards, a person or part of a person from entering or being present in the hazard zone without being detected."
+2 Muting is the temporary automatic suspension of a safety function(s)  by safety-related parts of the control system (see ISO 13849-1) . 
+"For detailed consideration of the fault behaviour of, for example, active optoelectronic protective devices, IEC 61496 should be taken into account."
+Additional requirements for sensitive protective equipment when used for cycle initiation 
+"In this exceptional application, the starting of the machine cycle is initiated by the withdrawal of a person or of the detected part of a person from the sensing field of the sensitive protective equipment, without any additional start command, hence deviating from the general requirement given in the second point of the dashed list in 6.3.2.5.2, above. After switching on the power supply, or when the machine has been stopped by the tripping function of the sensitive protective equipment, the machine cycle shall be initiated only by voluntary actuation of a start control.  Cycle initiation by sensitive protective equipment shall be subject to the following conditions:"
+ only active optoelectronic protective devices (AOPDs)  complying with IEC 61496 series shall be used;
+" the requirements for an AOPD used as a tripping and presence-sensing device (see IEC 61496)  are satisfied — in particular, location, minimum distance (see ISO 13855) , detection capability, reliability and monitoring of control and braking systems;"
+ the cycle time of the machine is short and the facility to re-initiate the machine upon clearing of the sensing field is limited to a period commensurate with a single normal cycle;
+ entering the sensing field of the AOPD(s)  or opening interlocking guards is the only way to enter the hazard zone;
+" if there is more than one AOPD safeguarding the machine, only one of the AOPDs is capable of cycle re-initiation;"
+" with regard to the higher risk resulting from automatic cycle initiation, the AOPD and the associated control system comply with a higher safety-related performance than under normal conditions."
+1 The hazard zone as referred to in d)  is any zone where the hazardous function (including ancillary equipment and transmission elements)  is initiated by clearing of the sensing field.
+2 See also IEC/TS 62046.
+Protective measures for stability 
+"If stability cannot be achieved by inherently safe design measures such as weight distribution (see 6.2.6) , it shall be maintained by the use of protective measures such as"
+"? anchorage bolts,  ? locking devices,  ? movement limiters or mechanical stops,  ? acceleration or deceleration limiters,  ? load limiters, and  ? alarms warning of the approach to stability or tipping limits."
+Other protective devices 
+"When a machine requires continuous control by the operator (for example, mobile machines, cranes)  and an error of the operator can generate a hazardous situation, this machine shall be equipped with the necessary devices to enable the operation to remain within specified limits, in particular"
+"? when the operator has insufficient visibility of the hazard zone,  ? when the operator lacks knowledge of the actual value of a safety-related parameter (distance, speed, mass, angle, etc.) , and  ? when hazards can result from operations other than those controlled by the operator. "
+The necessary devices include
+" devices for limiting parameters of movement (distance, angle, velocity, acceleration) ,"
+" overloading and moment limiting devices,"
+" devices to prevent collisions or interference with other machines,"
+" devices for preventing hazards to pedestrian operators of mobile machinery or other pedestrians,"
+" torque limiting devices, and breakage points to prevent excessive stress of components and assemblies,"
+" devices for limiting pressure or temperature,"
+" devices for monitoring emissions,"
+" devices to prevent operation in the absence of the operator at the control position,"
+" devices to prevent lifting operations unless stabilizers are in place,"
+" devices to limit inclination of the machine on a slope, and"
+ devices to ensure that components are in a safe position before travelling. 
+"Automatic protective measures triggered by such devices that take operation of the machinery out of the control of the operator (for example, automatic stop of hazardous movement)  should be preceded or accompanied by a warning signal to enable the operator to take appropriate action (see 6.4.3) ."
+Requirements for design of guards and protective devices
+General requirements 
+"Guards and protective devices shall be designed to be suitable for the intended use, taking into account mechanical and other hazards involved. Guards and protective devices shall be compatible with the working environment of the machine and designed so that they cannot be easily defeated. They shall provide the minimum possible interference with activities during operation and other phases of machine life, in order to reduce any incentive to defeat them."
+"For additional information, see ISO 14120, ISO 13849-1, ISO 13851, ISO 14119, ISO 13856, IEC 61496 and IEC 62061. "
+Guards and protective devices shall
+" be of robust construction,"
+" not give rise to any additional hazard,"
+" not be easy to bypass or render non-operational,"
+" be located at an adequate distance from the danger zone (see ISO 13855 and ISO 13857) ,"
+" cause minimum obstruction to the view of the production process, and"
+" enable essential work to be carried out for the installation and/or replacement of tools and for maintenance by allowing access only to the area where the work has to be carried out — if possible, without the guard having to be removed or protective device having to be disabled. "
+"For openings in the guards, see ISO 13857."
+Requirements for guards
+Functions of guards 
+The functions that guards can achieve are
+"? prevention of access to the space enclosed by the guard, and/or  ? containment/capture of materials, workpieces, chips, liquids which can be ejected or dropped by the machine, and reduction of emissions (noise, radiation, hazardous substances such as dust, fumes, gases)  that can be generated by the machine. "
+"Additionally, they could need to have particular properties relating to electricity, temperature, fire, explosion, vibration, visibility (see ISO 14120)  and operator position ergonomics (for example, usability, operator's movements, postures, repetitive movements) ."
+Requirements for fixed guards 
+Fixed guards shall be securely held in place either
+"? permanently (for example by welding) , or  ? by means of fasteners (screws, nuts)  making removal/opening impossible without using tools; they should not remain closed without their fasteners (see ISO 14120) ."
+A fixed guard can be hinged to assist in its opening.
+Requirements for movable guards 
+Movable guards which provide protection against hazards generated by moving transmission parts shall
+" as far as possible when open remain fixed to the machinery or other structure (generally by means of hinges or guides) , and"
+ be interlocking (with guard locking when necessary)  (see ISO 14119) . 
+See Figure 4.  Movable guards against hazards generated by non-transmission moving parts shall be designed and associated with the machine control system so that 
+"? moving parts cannot start up while they are within the operator's reach and the operator cannot reach moving parts once they have started up, with this able to be achieved by interlocking guards, with guard locking when necessary,  ? they can be adjusted only by an intentional action, such as the use of a tool or a key, and  ? the absence or failure of one of their components either prevents starting of the moving parts or stops them, with this able to be achieved by automatic monitoring (see 6.2.11.6) .  See Figure 4 and ISO 14119."
+Requirements for adjustable guards 
+Adjustable guards may only be used where the hazard zone cannot for operational reasons be completely enclosed. Manually adjustable guards shall be
+"? designed so that the adjustment remains fixed during a given operation, and  ? readily adjustable without the use of tools."
+Requirements for interlocking guards with a start function (control guards)  
+An interlocking guard with a start function may only be used provided that
+" all requirements for interlocking guards are satisfied (see ISO 14119) ,"
+" the cycle time of the machine is short,"
+" the maximum opening time of the guard is preset to a low value (for example, equal to the cycle time)  and, when this time is exceeded, the hazardous function(s)  cannot be initiated by the closing of the interlocking guard with a start function and resetting is necessary before restarting the machine,"
+" the dimensions or shape of the machine do not allow a person, or part of a person, to stay in the hazard zone or between the hazard zone and the guard while the guard is closed (see ISO 14120) ,"
+" all other guards, whether fixed (removable type)  or movable, are interlocking guards,"
+" the interlocking device associated with the interlocking guard with a start function is designed such that — for example, by duplication of position detectors and use of automatic monitoring (see 6.2.11.6)  — its failure cannot lead to an unintended/unexpected start-up, and"
+" the guard is securely held open (for example, by a spring or counterweight)  such that it cannot initiate a start while falling by its own weight."
+Hazards from guards 
+Care shall be taken to prevent hazards which could be generated by
+"? the guard construction (sharp edges or corners, material, noise emission, etc.) ,  ? the movements of the guards (shearing or crushing zones generated by power-operated guards and by heavy guards which are liable to fall) ."
+Technical characteristics of protective devices 
+"Protective devices shall be selected or designed and connected to the control system such that correct implementation of their safety function(s)  is ensured.  Protective devices shall be selected on the basis of their having met the appropriate product standard (for example, IEC 61496 for active optoelectronic protective devices)  or shall be designed according to one or several of the principles formulated in ISO 13849-1 or IEC 62061.  Protective devices shall be installed and connected to the control system so that they cannot be easily defeated."
+Provisions for alternative types of safeguards 
+Provisions should be made to facilitate the fitting of alternative types of safeguards on machinery where it is known that it will be necessary to change the safeguards because of the range of work to be carried out.
+Safeguarding to reduce emissions
+General 
+"If the measures for the reduction of emissions at source specified in 6.2.2.2 are not adequate, the machine shall be provided with additional protective measures (see 6.3.4.2 to 6.3.4.5) ."
+Noise 
+Additional protective measures against noise include
+"? enclosures (see ISO 15667) ,  ? screens fitted to the machine, and  ? silencers (see ISO 14163) ."
+Vibration 
+Additional protective measures against vibration include
+"? vibration isolators, such as damping devices placed between the source and the exposed person,  ? resilient mounting, and  ? suspended seats. "
+For measures for vibration isolation of stationary industrial machinery see EN 1299.
+Hazardous substances 
+Additional protective measures against hazardous substances include
+"? encapsulation of the machine (enclosure with negative pressure) ,  ? local exhaust ventilation with filtration,  ? wetting with liquids, and  ? special ventilation in the area of the machine (air curtains, cabins for operators) .  See ISO 14123-1."
+Radiation 
+Additional protective measures against radiation include
+"? use of filtering and absorption, and  ? use of attenuating screens or guards."
+Complementary protective measures
+General 
+"Protective measures which are neither inherently safe design measures, nor safeguarding (implementation of guards and/or protective devices) , nor information for use, could have to be implemented as required by the intended use and the reasonably foreseeable misuse of the machine. Such measures include, but are not limited to, those dealt with in 6.3.5.2 to 6.3.5.6."
+Components and elements to achieve emergency stop function 
+"If, following a risk assessment, a machine needs to be fitted with components and elements to achieve an emergency stop function for enabling actual or impending emergency situations to be averted, the following requirements apply:"
+"? the actuators shall be clearly identifiable, clearly visible and readily accessible;  ? the hazardous process shall be stopped as quickly as possible without creating additional hazards, but if this is not possible or the risk cannot be reduced, it should be questioned whether implementation of an emergency stop function is the best solution;  ? the emergency stop control shall trigger or permit the triggering of certain safeguard movements where necessary."
+"For more detailed provisions, see ISO 13850. "
+"Once active operation of the emergency stop device has ceased following an emergency stop command, the effect of this command shall be sustained until it is reset. This reset shall be possible only at the location where the emergency stop command has been initiated. The reset of the device shall not restart the machinery, but shall only permit restarting.  More details for the design and selection of electrical components and elements to achieve the emergency stop function are provided in IEC 60204."
+Measures for the escape and rescue of trapped persons 
+"Measures for the escape and rescue of trapped persons may consist, among others, of"
+"? escape routes and shelters in installations generating operator-trapping hazards,  ? arrangements for moving some elements by hand, after an emergency stop,  ? arrangements for reversing the movement of some elements,  ? anchorage points for descender devices,  ? means of communication to enable trapped operators to call for help."
+Measures for isolation and energy dissipation 
+Machines shall be equipped with the technical means to achieve isolation from power supply(ies)  and dissipation of stored energy by means of the following actions:
+" isolating (disconnecting, separating)  the machine (or defined parts of the machine)  from all power supplies;"
+ locking (or otherwise securing)  all the isolating units in the isolating position;
+" dissipating or, if this is not possible or practicable, restraining (containing)  any stored energy which can give rise to a hazard;"
+" verifying, by means of safe working procedures, that the actions taken according to a) , b)  and c)  above have produced the desired effect. "
+"See ISO 14118:2000, Clause 5, and IEC 60204-1:2005, 5.5 and 5.6."
+Provisions for easy and safe handling of machines and their heavy component parts 
+"Machines and their component parts which cannot be moved or transported by hand shall be provided or be capable of being provided with suitable attachment devices for transport by means of lifting gear. These attachments may be, among others,"
+"? standardized lifting appliances with slings, hooks, eyebolts, or tapped holes for appliance fixing,  ? appliances for automatic grabbing with a lifting hook when attachment is not possible from the ground,  ? fork locating devices for machines to be transported by a lift truck,  ? lifting and stowing gear and appliances integrated into the machine. "
+"Parts of machinery which can be removed manually in operation shall be provided with means for their safe removal and replacement.  See also 6.4.4 c) , item 3) ."
+Measures for safe access to machinery 
+"Machinery shall be so designed as to enable operation and all routine tasks relating to setting and/or maintenance to be carried out as far as possible by a person remaining at ground level.  Where this is not possible, machines shall have built-in platforms, stairs or other facilities to provide safe access for those tasks; however, care should be taken to ensure that such platforms or stairs do not give access to danger zones of machinery.  The walking areas shall be made from materials which remain as slip resistant as practicable under working conditions and, depending on the height from the ground, shall be provided with suitable guard-rails (see ISO 14122-3) .  In large automated installations, particular attention shall be given to safe means of access, such as walkways, conveyor bridges or crossover points.  Means of access to parts of machinery located at height shall be provided with collective means of protection against falls (for example, guard-rails for stairways, stepladders and platforms and/or safety cages for ladders) . As necessary, anchorage points for personal protective equipment against falls from height shall also be provided (for example, in carriers of machinery for lifting persons or with elevating control stations) .  Openings shall, whenever possible, open towards a safe position. They shall be designed to prevent hazards due to unintended opening.  The necessary aids for access shall be provided (steps, handholds, etc.) . Control devices shall be designed and located to prevent their being used as aids for access.  When machinery for lifting goods and/or persons includes landings at fixed levels, these shall be equipped with interlocking guards for preventing falls when the platform is not present at a level. Movement of the lifting platform shall be prevented while the guards are open.  For detailed provisions see ISO 14122."
+Information for use
+General requirements
+"Drafting information for use is an integral part of the design of a machine (see Figure 2) . Information for use consists of communication links, such as texts, words, signs, signals, symbols or diagrams, used separately or in combination to convey information to the user. Information for use is intended for professional and/or non-professional users."
+See also IEC 62079 for structuring and presentation of information for use.
+"Information shall be provided to the user about the intended use of the machine, taking into account, notably, all its operating modes.  The information shall contain all directions required to ensure safe and correct use of the machine. With this in view, it shall inform and warn the user about residual risk. The information shall indicate, as appropriate, "
+"? the need for training,  ? the need for personal protective equipment, and  ? the possible need for additional guards or protective devices (see Figure 2, Footnote d) . "
+"It shall not exclude uses of the machine that can reasonably be expected from its designation and description and shall also warn about the risk which would result from using the machine in other ways than the ones described in the information, especially considering its reasonably foreseeable misuse."
+"Information for use shall cover, separately or in combination, transport, assembly and installation, commissioning, use of the machine (setting, teaching/programming or process changeover, operation, cleaning, fault-finding and maintenance)  and, if necessary, dismantling, disabling and scrapping."
+Location and nature of information for use 
+"Depending on the risk, the time when the information is needed by the user and the machine design, it shall be decided whether the information — or parts thereof — are to be given"
+" in/on the machine itself (see 6.4.3 and 6.4.4) ,"
+" in accompanying documents (in particular instruction handbook, see 6.4.5) ,"
+" on the packaging,"
+ by other means such as signals and warnings outside the machine. 
+Standardized phrases shall be considered where important messages such as warnings are given (see also IEC 62079) .
+Signals and warning devices 
+"Visual signals, such as flashing lights and audible signals such as sirens may be used to warn of an impending hazardous event such as machine start-up or overspeed. Such signals may also be used to warn the operator before the triggering of automatic protective measures (see 6.3.2.7) .  It is essential that these signals"
+" be emitted before the occurrence of the hazardous event,"
+" be unambiguous,"
+" be clearly perceived and differentiated from all other signals used, and"
+ be clearly recognized by the operator and other persons. 
+"The warning devices shall be designed and located such that checking is easy. The information for use shall prescribe regular checking of warning devices.  The attention of designers is drawn to the possibility of “sensorial saturation”, which can result from too many visual and/or acoustic signals and which can also lead to defeating the warning devices."
+Consultation of the user on this subject is often necessary.
+"Markings, signs (pictograms)  and written warnings "
+Machinery shall bear all markings which are necessary
+" for its unambiguous identification, including at least"
+" the name and address of the manufacturer,"
+" the designation of series or type, and"
+" the serial number, if any,"
+" in order to indicate its compliance with mandatory requirements, comprising"
+" marking, and"
+" written indications, such as the authorized representative of the manufacturer, designation of the machinery, year of construction, and intended use in potentially explosive atmospheres) ,"
+" for its safe use, for example,"
+" maximum speed of rotating parts,"
+" maximum diameter of tools,"
+" mass (in kilograms)  of the machine itself and/or of removable parts,"
+" maximum working load,"
+" necessity of wearing personal protective equipment,"
+" guard adjustment data, and"
+ frequency of inspection. 
+"Information printed directly on the machine should be permanent and remain legible throughout the expected life of the machine.  Signs or written warnings indicating only “Danger” shall not be used.  Markings, signs and written warnings shall be readily understandable and unambiguous, especially as regards the part of the function(s)  of the machine to which they are related. Readily understandable signs (pictograms)  should be used in preference to written warnings.  Signs and pictograms should only be used if they are understood in the culture in which the machinery is to be used.  Written warnings shall be drawn up in the language(s)  of the country in which the machine will be used for the first time and, on request, in the language(s)  understood by operators."
+In some countries the use of specific language(s)  is covered by legal requirements. 
+"Markings shall comply with recognized standards (for example, ISO 2972 or ISO 7000, for pictograms, symbols and colours in particular) .  See IEC 60204-1 as regards marking of electrical equipment.  See ISO 4413 and ISO 4414 for hydraulic and pneumatic equipment."
+Accompanying documents (in particular — instruction handbook) 
+Contents 
+"The instruction handbook or other written instructions (for example, on the packaging)  shall contain, among others, the following:"
+" information relating to transport, handling and storage of the machine, such as"
+" storage conditions for the machine,"
+" dimensions, mass value(s) , position of the centre(s)  of gravity, and"
+" indications for handling (for example, drawings indicating application points for lifting equipment) ;"
+" information relating to installation and commissioning of the machine, such as"
+" fixing/anchoring and dampening of noise and vibration requirements,"
+" assembly and mounting conditions,"
+" space needed for use and maintenance,"
+" permissible environmental conditions (for example, temperature, moisture, vibration, electromagnetic radiation) ,"
+" instructions for connecting the machine to power supply (particularly on protection against electrical overloading) ,"
+" advice on waste removal/disposal, and"
+" if necessary, recommendations related to protective measures which have to be implemented by the user — for example, additional safeguards (see Figure 2, Footnote d) , safety distances, safety signs and signals;"
+" information relating to the machine itself, such as"
+" detailed description of the machine, its fittings, guards and/or protective devices,"
+" the comprehensive range of applications for which the machine is intended, including prohibited usages, if any, taking into account variations of the original machine if appropriate,"
+" diagrams (especially schematic representation of safety functions) ,"
+" data on noise and vibration generated by the machine, and on radiation, gases, vapours and dust emitted by it, with reference to the measuring methods (including measurement uncertainties)  used,"
+" technical documentation of electrical equipment (see IEC 60204) , and"
+ documents attesting that the machine complies with mandatory requirements;
+" information relating to the use of the machine, such as that related to or describing"
+" intended use,"
+" manual controls (actuators) ,"
+" setting and adjustment,"
+" modes and means for stopping (especially emergency stop) ,"
+" risks which could not be eliminated by the protective measures implemented by the designer,"
+" particular risks which can be generated by certain applications, by the use of certain fittings, and about specific safeguards necessary for such applications,"
+" reasonably foreseeable misuse and prohibited applications,"
+" fault identification and location, for repair and for restarting after an intervention, and"
+ personal protective equipment needed to be used and the training that is required;
+" information for maintenance, such as"
+" the nature and frequency of inspections for safety functions,"
+" specification of the spare parts to be used when these can affect the health and safety of operators,"
+" instructions relating to maintenance operations which require a definite technical knowledge or particular skills and hence need to be carried out exclusively by skilled persons (for example, maintenance staff, specialists) ,"
+" instructions relating to maintenance actions (replacement of parts, etc.)  which do not require specific skills and hence may be carried out by users (for example, operators) , and"
+ drawings and diagrams enabling maintenance personnel to carry out their task rationally (especially fault-finding tasks) ;
+" information relating to dismantling, disabling and scrapping;"
+" information for emergency situations, such as"
+" the operating method to be followed in the event of accident or breakdown,"
+" the type of fire-fighting equipment to be used, and"
+" a warning of possible emission or leakage of hazardous substance(s)  and, if possible, an indication of means for fighting their effects;"
+" maintenance instructions provided for skilled persons [item e)  3)  above] and maintenance instructions provided for unskilled persons [item e)  4)  above], that need to appear clearly separated from each other."
+Production of instruction handbook 
+The following applies to the production and presentation of the instruction handbook.
+" The type fount and size of print shall ensure the best possible legibility. Safety warnings and/or cautions should be emphasized by the use of colours, symbols and/or large print."
+" The information for use shall be given in the language(s)  of the country in which the machine will be used for the first time and in the original version. If more than one language is to be used, each should be readily distinguished from another, and efforts should be made to keep the translated text and relevant illustration together."
+In some countries the use of specific language(s)  is covered by legal requirements.
+" Whenever helpful to the understanding, text should be supported by illustrations. These illustrations should be supplemented with written details enabling, for example, manual controls (actuators)  to be located and identified. They should not be separated from the accompanying text and should follow sequential operations."
+ Consideration should be given to presenting information in tabular form where this will aid understanding. Tables should be adjacent to the relevant text.
+" The use of colours should be considered, particularly in relation to components requiring quick identification."
+" When information for use is lengthy, a table of contents and/or an index should be provided."
+ Safety-relevant instructions which involve immediate action should be provided in a form readily available to the operator.
+Drafting and editing information for use 
+The following applies to the drafting and editing of information for use.
+" Relationship to model: the information shall clearly relate to the specific model of machine and, if necessary, other appropriate identification (for example, by serial number) ."
+" Communication principles: when information for use is being prepared, the communication process “see – think – use” should be followed in order to achieve the maximum effect and should follow sequential operations. The questions, “How?” and “Why?” should be anticipated and the answers provided."
+" Information for use shall be as simple and as brief as possible, and should be expressed in consistent terms and units with a clear explanation of unusual technical terms."
+" When it is foreseen that a machine will be put to non-professional use, the instructions should be written in a form that is readily understood by the non-professional user. If personal protective equipment is required for the safe use of the machine, clear advice should be given, for example, on the packaging as well as on the machine, so that this information is prominently displayed at the point of sale."
+" Durability and availability of the documents: documents giving instructions for use should be produced in durable form (i.e. they should be able to survive frequent handling by the user) . It can be useful to mark them “keep for future reference”. Where information for use is kept in electronic form (CD, DVD, tape, hard disk, etc.) , information on safety-related issues that need immediate action shall always be backed up with a hard copy that is readily available."
+Documentation of risk assessment and risk reduction 
+"The documentation shall demonstrate the procedure that has been followed and the results that have been achieved. This includes, when relevant, documentation of"
+" the machinery for which the risk assessment has been made (for example, specifications, limits, intended use);"
+" any relevant assumptions that have been made (loads, strengths, safety factors, etc.) ;"
+ the hazards and hazardous situations identified and the hazardous events considered in the risk assessment;
+ the information on which risk assessment was based (see 5.2) :
+" the data used and the sources (accident histories, experience gained from risk reduction applied to similar machinery, etc.) ;"
+ the uncertainty associated with the data used and its impact on the risk assessment;
+ the risk reduction objectives to be achieved by protective measures;
+ the protective measures implemented to eliminate identified hazards or to reduce risk;
+ residual risks associated with the machinery;
+ the result of the risk assessment (see Figure 1) ;
+ any forms completed during the risk assessment. Standards or other specifications used to select protective measures referred to in f)  above should be referenced.
+No requirement is given in this International Standard to deliver the risk assessment documentation together with the machine. See ISO/TR 14121-2 for information on documentation.

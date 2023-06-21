@@ -1,0 +1,84 @@
+\documentclass[
+		master, % type of document: seminar, hausarbeit, bachelor, master, diss
+		%english, % remove if you want to write in english
+		theotuv, %institution: agwi, ucc, vlba or theotuv
+		nomencl, % nomenclature on
+		hyperref,
+		nolof,
+		nolot,
+		nolst,
+		bibnum
+		%twoside % two sided output will be generated
+	]{mrcc}
+\usepackage{adjustbox}
+\usepackage{graphicx}
+%\usepackage{listings}
+%\usepackage[pdflatex=true]{gastex} % geht erst mit version 2.9, CTAN hat aber nur 2.8 vorrätig
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Miscanallous Options                                                                                    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\graphicspath{{img/}} % sets Path to figure-folder
+%\pgfplotsset{compat=1.6} % pgfplot-fix DOES NOT WORK WITH MACTEX
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Styling etc                                                                                             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{tex/lststyles}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Author-related information start here                                                                               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\author{Anjan Chatterjee}
+\title{Towards development of a knowledge model for industrial risk assessments}
+\bibfiles{literature}
+\supervisor{M.Sc. Emanuel Deisler}
+\prof{Prof. Dr.-Ing. habil. Till Mossakowski}
+\secondprof{Dr. phil. Fabian Neuhaus}
+\abstracten{
+\bigskip
+\paragraph{}
+Industrial risk assessment follows a series of logical steps to identify and examine any potential hazards associated with a particular machinery and its sub-components. The ISO 12100 lists the basic hazard analysis and risk evaluation procedures. It also provides a guideline on the safety of a machinery. Such risk assessment is important to make a decision on the safety of machinery for risks to be reduced where necessary. For a Testing, Inspection and Certification (TIC) industry, within the scope of certification, such kind of risk assessment must be checked and commented on them if necessary. This is done manually, which is expensive and time consuming. Also, the assessments performed in the present day scenario are based on the requirements listed in safety standards. These requirements are sometimes fuzzy and difficult to interpret. The goal of this thesis is towards finding an approach to make faster, safer and more efficient risk assessments. The approach used is towards developing a semantic knowledge model from safety standards and human experts. With the connected infrastructure of industry 4.0 and smart machines, such kind of machine-readable representation of knowledge can help for faster risk assessments. They can provide a more refined interpretation of requirements for risk assessments and also preserve knowledge for quicker re-assessments. The project deals with the safety assessment of a laser cutting machine using a knowledge graph based on ontology. The project lays a foundation towards developing a ground for connected risk assessments by connecting the semantics of safety standard and previous risk assessment.
+
+% With the connected infrastructure of industry 4.0 and smart machines, it would be better if there is a machine readable  is it possible to model the knowledge from standards and domain experts
+
+% Domain knowledge is a valuable asset for every business. In recent times, with the advent of Semantic AI, knowledge elicitation from domain experts and preserving it in a database is an important task. A knowledge model facilitates the preservation of human experiences and have a database of  machine-readable representations of domain specific human expertise. This would lay a foundation for a knowledge graph of industrial products which could have important use cases. For a Testing, Inspection and Certification (TIC) industry, such kind of knowledge graph can bring more refined requirement interpretation for a faster and efficient risk assessment. Also, a validation must be performed to ensure the maximum yield of usable knowledge in that domain. Especially for the TIC industry where safety is concerned, the knowledge model must be validated against the expert human knowledge and then present an inference of the model. The research lies in finding a suitable way for knowledge elicitation from expert and safety standard, structuring it in a knowledge graph based on ontology and finally validating it. Also to find out to which extent the process can be automated. Finally, as an outcome, a productive procedure to model knowledge is expected and a working prototype that can be used for industrial safety and security assessments.
+}
+\acknowledgments{
+\bigskip
+\paragraph{}
+I would like to express my sincere gratitude to the following individuals and organizations, without whom this masters thesis would not have been possible.
+
+\paragraph{} Firstly, I would like to thank TÜV SÜD Product Service GmbH for providing me with the opportunity to work on this topic and for their constant support throughout the duration of my thesis work. Special thanks to my previous supervisor, M.Sc. Dimitri Harder, for his guidance and valuable insights that helped to shape my research direction. Thanks to my current supervisor M.Sc. Emanuel Deisler for his support throughout my thesis. Also my sincere gratitude to M.Sc. Aranya Sarkar for the constant help alongside.
+
+\paragraph{} Most importantly, I would like to thank Prof. Dr.-Ing. habil. Till Mossakowski, for his support and mentorship throughout my work. His guidance and encouragement have been instrumental in shaping this work. Thanks to Dr. phil. Fabian Neuhaus whose valuable insights were significant towards my research. This work wouldn't have been possible without its acceptance in the Research Group for Theoretical Computer Science, Otto-von-Guericke-University Magdeburg.
+
+\paragraph{} Finally, I would like to thank my Maa and Papa for their unwavering support and encouragement throughout my master studies. Their love and encouragement have kept me motivated and focused on achieving my dreams.
+}
+\dedication{Meinen Eltern\dots} %only for diss
+\birthday{01.01.1980} % only for diss
+\placeofbirth{Musterland} % only for diss
+\reviewer{Prof. A\\ Prof. B} % only for diss
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Content starts here...                                                                                  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+	\lstsettex
+	% \input{chap/chap0.tex}
+        \listoffigures
+	\input{chap/chap1.tex}
+	\input{chap/chap2.tex}
+	\input{chap/chap3.tex}
+	\input{chap/chap4.tex}
+	\input{chap/chap5.tex}
+	\input{chap/chap6.tex}
+	\input{chap/chap7.tex}
+	\input{chap/chap8.tex}
+        \input{chap/chap9.tex}
+	\begin{appendix}
+		\chapter{Repository}
+        \paragraph{} The repository for the working files of this thesis is uploaded to GitHub 
+		\dots{}
+	\end{appendix}
+\end{document}
